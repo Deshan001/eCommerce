@@ -3,7 +3,9 @@ import React from "react";
 function Footer() {
   return (
     <div className="bg-dark text-light p-3">
-      <h4 className="text-center">All Right Reserved &copy; IJSE(GDSE-63)</h4>
+      <h4 className="text-center p-3">
+        All Right Reserved &copy; Deshapriya-IJSE
+      </h4>
     </div>
   );
 }
